@@ -1,0 +1,4 @@
+.venv
+.idea
+sales_store_forecasting/*.csv
+

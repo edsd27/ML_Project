@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+joblib
+numpy
+scikit-learn
+pandas
+scipy
+dash
+streamlit
+statsmodels
+pandas
+numpy
+plotly
+kagglehub
+seaborn
