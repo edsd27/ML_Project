@@ -2,4 +2,9 @@
 .idea
 sales_store_forecasting/*.csv
 ImageClassification/Covid19/*.png
+ImageClassification/*.pkl
+ReinforcementLearning/ErgebnisQlearning/*
+ReinforcementLearning/Instanz5_4/*
+ReinforcementLearning/Instanz27_27/*
+ReinforcementLearning/models/*
 
